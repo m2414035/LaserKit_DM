@@ -15,10 +15,10 @@
 
 Laser_Kit_DM/
 
-├── Laser Kit Drill Case         [# Проекты для 3D-печати](https://github.com/m2414035/Laser_Kit_DM/tree/main/Laser%20Kit%20Drill%20Case)
+├── Laser Kit Drill Case         # 
 
-├── Laser_Kit_mini_box           # Проекты для станков с ЧПУ
+├── Laser_Kit_mini_box           # 
 
-├── Laser_Kit_Сhristmas_toy      # Электронные устройства
+├── Laser_Kit_Сhristmas_toy      # 
 
-└── Living_Hinge_Pattern         # Креативные DIY-проекты
+└── Living_Hinge_Pattern         # 
